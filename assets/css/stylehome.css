@@ -278,7 +278,7 @@ a:visited {
 
   .rows {
     /* background-color: aliceblue; */
-    /* display: none; */
+    display: none;
     flex-direction: row;
   }
 
